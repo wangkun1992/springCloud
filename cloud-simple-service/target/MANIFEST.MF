@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: cloud-simple-service
+Implementation-Version: 1.0.0
+Built-By: wk
+Implementation-Vendor-Id: cloud
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.7.0_67
+Main-Class: ${start-class}
+
